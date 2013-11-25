@@ -3,6 +3,7 @@
   "description": "transmat proxy" ,
   "version": "0.1.0",
   "private": true,
+  "main" : "transmat-proxy.js",
   "dependencies": {
     "winston": "~0.7.2",
     "basic-auth-parser" : "~0.0.2",
